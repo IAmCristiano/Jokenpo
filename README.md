@@ -10,16 +10,16 @@ Batalha de dominação de emojis representando o clássico jogo Jokenpô (pedra,
 ## 📜 Descrição
 Este projeto é uma representação visual animada do jogo "Jokenpô", onde emojis de pedra 🗿, papel 📄 e tesoura ✂️ se movem aleatoriamente dentro de um contêiner. Quando colidem, regras baseadas no jogo são aplicadas:
 
-Pedra 🗿 domina Tesoura ✂️
-Papel 📄 domina Pedra 🗿
-Tesoura ✂️ domina Papel 📄
+Pedra 🗿 domina Tesoura ✂️<br/>
+Papel 📄 domina Pedra 🗿<br/>
+Tesoura ✂️ domina Papel 📄<br/>
 
 São 20 emojis de cada tipo, quem será o vencedor?
 
 ## 📜 Como funciona
-60 emojis iniciam na tela (20 de cada tipo: pedra, papel e tesoura).
-Movimento Aleatório: Cada emoji se move de forma aleatória dentro do contêiner.
-Regras: Quando dois emojis se tocam, o perdedor se transforma no tipo do vencedor.
-Contador: Um contador exibe a quantidade atual de cada tipo de emoji.
-Resultado Aleatório: Cada vez que você executar o jogo, o resultado será diferente. Totalmente aleatório!
+60 emojis iniciam na tela (20 de cada tipo: pedra, papel e tesoura).<br/>
+Movimento Aleatório: Cada emoji se move de forma aleatória dentro do contêiner.<br/>
+Regras: Quando dois emojis se tocam, o perdedor se transforma no tipo do vencedor.<br/>
+Contador: Um contador exibe a quantidade atual de cada tipo de emoji.<br/>
+Resultado Aleatório: Cada vez que você executar o jogo, o resultado será diferente. Totalmente aleatório!<br/>
 Botão de Reiniciar: Basta clicar no botão, e o jogo recomeça!
